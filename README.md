@@ -1,1 +1,3 @@
-# predictingcarprices
+In this guided project by DataQuest, I practiced the machine learning workflow to predict a car's market price using its attributes. The data set I worked with contains information on various cars. For each car we have information about the technical aspects of the vehicle such as the motor's displacement, the weight of the car, the miles per gallon, how fast the car accelerates, and more. More about the data set can be found here: https://archive.ics.uci.edu/ml/datasets/automobile
+
+The data set can be directly accessed here: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
